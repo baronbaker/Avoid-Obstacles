@@ -15,15 +15,22 @@ Rules:
 Inputs:
 
 Buttons:
+
 Function: Detects the button press.
 0 (not pressed) or 1 (pressed)
+
 Assigned Control: Left Button moves the LED to the left and Right Button moves the character to the right
 Outputs:
 
 LEDs:
+
 Function: Display the character and obstacles on the CPX board.
+
 Assigned Control: Visual representation of the game elements
+
 Sound:
+
 Function: Play sounds indicating victory or loss.
+
 Assigned Control: Play tune for the player's win or loss
 
