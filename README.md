@@ -13,6 +13,7 @@ Rules:
 7. If the player successfully avoids the obstacles and stays alive for more than 10 seconds, the game ends, and a sound indicating victory will play.
 
 Inputs:
+
 Buttons:
 Function: Detects the button press.
 0 (not pressed) or 1 (pressed)
